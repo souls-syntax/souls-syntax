@@ -1,16 +1,23 @@
-## Hi there 👋
+# Aakarsh Kashyap
+---
+Engineer • dev tools • servers
+---
+I love writing C and Go.
 
-<!--
-**souls-syntax/souls-syntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like working on low level tools and systems.
 
-Here are some ideas to get you started:
+---
+Interest
+  * Systems programming
+  * Concurrency
+  * CUDA
+  * Neural Nets
+  * Distributed System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[www.linkedin.com/in/souls-syntax](linkedIn)
+
+---
+
+> "Clean > Clever > Bloat"
+
+[![wakatime](https://wakatime.com/badge/user/f4cf022e-2c53-432d-aef4-ec89485fc3ac.svg)](https://wakatime.com/@f4cf022e-2c53-432d-aef4-ec89485fc3ac)
