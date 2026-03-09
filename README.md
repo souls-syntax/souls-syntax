@@ -15,6 +15,7 @@ Interest
   * Distributed System
 
 - [linkedIn](www.linkedin.com/in/souls-syntax)
+- [Twitter](https://twitter.com/theshashwat20)
 
 ---
 
