@@ -14,7 +14,7 @@ Interest
   * Neural Nets
   * Distributed System
 
-[www.linkedin.com/in/souls-syntax](linkedIn)
+(www.linkedin.com/in/souls-syntax)[linkedIn]
 
 ---
 
