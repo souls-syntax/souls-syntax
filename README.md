@@ -1,18 +1,16 @@
+> There you go kek
 # Aakarsh Kashyap
 ---
-Engineer • dev tools • servers
+C, C++, and questionable life choices.
 ---
-I love writing C and Go.
+bootable OS. tensor engine. unix shell. the usual.
 
-I like working on low level tools and systems.
+GPU memory, kernel panics, and occasionally sleep.
 
 ---
-Interest
-  * Systems programming
-  * Concurrency
-  * CUDA
-  * Neural Nets
-  * Distributed System
+> "Clean > Clever > Bloat"
+
+[![wakatime](https://wakatime.com/badge/user/f4cf022e-2c53-432d-aef4-ec89485fc3ac.svg)](https://wakatime.com/@f4cf022e-2c53-432d-aef4-ec89485fc3ac)
 
 ---
 Contacts
@@ -20,6 +18,4 @@ Contacts
 
 ---
 
-> "Clean > Clever > Bloat"
-
-[![wakatime](https://wakatime.com/badge/user/f4cf022e-2c53-432d-aef4-ec89485fc3ac.svg)](https://wakatime.com/@f4cf022e-2c53-432d-aef4-ec89485fc3ac)
+heh.
