@@ -12,8 +12,6 @@ GPU memory, kernel panics, and occasionally sleep.
 
 [![wakatime](https://wakatime.com/badge/user/f4cf022e-2c53-432d-aef4-ec89485fc3ac.svg)](https://wakatime.com/@f4cf022e-2c53-432d-aef4-ec89485fc3ac)
 
-[LinkedIn](https://linkedin.com/in/souls-syntax)
-
 ---
 
 heh.
