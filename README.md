@@ -1,4 +1,4 @@
-> There you go kek
+
 # Aakarsh Kashyap
 ---
 C, C++, and questionable life choices.
@@ -14,4 +14,4 @@ GPU memory, kernel panics, and occasionally sleep.
 
 ---
 
-heh.
+
