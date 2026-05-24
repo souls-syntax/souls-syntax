@@ -15,4 +15,16 @@ GPU memory, kernel panics, and occasionally sleep.
 
 ---
 
+<img src="scarlet-sister-nullpointer.png" width="300"/>
+
+<div>
+
+
+<img src="anime-jeanne-darc.gif" width="150"/>
+<img src="arch-i-use-arch-btw.gif" width="150"/>
+<img src="fate-fate-anime.gif" width="150"/>
+<img src="fate-padoru-nero-christmas.gif" width="150"/>
+<img src="vi-vim.gif" width="150"/>
+
+</div>
 
