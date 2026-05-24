@@ -8,6 +8,7 @@ GPU memory, kernel panics, and occasionally sleep.
 > "Clean > Clever > Bloat"
 
 [![wakatime](https://wakatime.com/badge/user/f4cf022e-2c53-432d-aef4-ec89485fc3ac.svg)](https://wakatime.com/@f4cf022e-2c53-432d-aef4-ec89485fc3ac)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souls-syntax)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
