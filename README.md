@@ -18,6 +18,9 @@ GPU memory, kernel panics, and occasionally sleep.
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+[![CSES Solved](https://img.shields.io/badge/CSES-12%20solved-blue?style=flat&logo=target&logoColor=white)](https://cses.fi/problemset/)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=souls-syntax&query=$.result[0].rating&label=Codeforces&color=blue&style=flat)](https://codeforces.com/profile/YOUR_HANDLE)
+---
 
 <img src="scarlet-sister-nullpointer.png" width="300" align="left"/>
 
