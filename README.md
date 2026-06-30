@@ -37,3 +37,5 @@ GPU memory, kernel panics, and occasionally sleep.
 <img src="neco-arc-fate.gif" width="80"/>
 <img src="ruan-mentioned.gif" width="80"/>
 </div>
+
+Server I maintain : ![server](https://discord.gg/tW7MkkCMQ7)
