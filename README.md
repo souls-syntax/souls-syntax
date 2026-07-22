@@ -5,7 +5,8 @@ C, C++, and questionable life choices.
 bootable OS. tensor engine. unix shell. the usual.
 GPU memory, kernel panics, and occasionally sleep.
 
-> "Clean > Clever > Bloat"
+> "Anthropomorphizing your projects is the best way to go about it"
+> "My cute sakura-chan text editor supports her big sis rin-chan which is a interpreted languag"
 
 [![wakatime](https://wakatime.com/badge/user/f4cf022e-2c53-432d-aef4-ec89485fc3ac.svg)](https://wakatime.com/@f4cf022e-2c53-432d-aef4-ec89485fc3ac)
 
