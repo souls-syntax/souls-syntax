@@ -41,3 +41,5 @@ GPU memory, kernel panics, and occasionally sleep.
 </div>
 
 Server I maintain : ![server](https://discord.gg/tW7MkkCMQ7)
+
+![](https://komarev.com/ghpvc/?username=souls-syntax&color=ff69b4)
