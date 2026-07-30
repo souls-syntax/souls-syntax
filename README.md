@@ -2,6 +2,8 @@
 
 C, C++, and questionable life choices.
 
+Aspires to make softwares that suck less.
+
 bootable OS. tensor engine. unix shell. the usual.
 GPU memory, kernel panics, and occasionally sleep.
 
@@ -20,11 +22,8 @@ GPU memory, kernel panics, and occasionally sleep.
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-<!--[![CSES Solved](https://img.shields.io/badge/CSES-12%20solved-blue?style=flat&logo=target&logoColor=white)](https://cses.fi/problemset/)
-[![Codeforces](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=souls-syntax&query=$.result[0].rating&label=Codeforces&color=blue&style=flat)](https://codeforces.com/profile/YOUR_HANDLE)
----
--->
-<img src="scarlet-sister-nullpointer.png" width="300" align="left"/>
+
+<img src="scarlet-sister-nullpointer.png" width="250" height="350" align="right"/>
 
 <br clear="left"/>
 
@@ -32,14 +31,16 @@ GPU memory, kernel panics, and occasionally sleep.
 
 <div align="center">
 <img src="anime-jeanne-darc.gif" width="80"/>
-<img src="arch-i-use-arch-btw.gif" width="80"/>
-<img src="fate-fate-anime.gif" width="80"/>
 <img src="fate-padoru-nero-christmas.gif" width="80"/>
-<img src="vi-vim.gif" width="80"/>
 <img src="neco-arc-fate.gif" width="80"/>
 <img src="ruan-mentioned.gif" width="80"/>
 </div>
 
-Server I maintain : ![server](https://discord.gg/tW7MkkCMQ7)
+<hr/>
+
+<br>
+<br>
+
+**Server I maintain** : ![[server]](https://discord.gg/tW7MkkCMQ7)
 
 ![](https://komarev.com/ghpvc/?username=souls-syntax&color=ff69b4)
